@@ -1,0 +1,2 @@
+# CollatzConjecture
+ Collatz Conjecture Algorithm
